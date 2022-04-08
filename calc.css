@@ -6,6 +6,9 @@
     width: 360px;
     height: 540px;
 } */
+body{
+    background-color: rgb(71, 69, 69);
+}
 section{
     background-color: gray;
     width: 370px;
